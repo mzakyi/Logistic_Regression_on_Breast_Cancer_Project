@@ -66,7 +66,10 @@ jupyter notebook
 - Visualizations (histograms, scatter plots, heatmaps) provided insights into:  
   - Distribution of individual features  
   - Correlations between variables  
-  - Potential outliers or missing values  
+  - Potential outliers or missing values
+ 
+- Our model gave us a high score of 0.96 from both the accuracy score and Classification_report metrics, an indication of an efficient model.
+     
 
 ---
 
