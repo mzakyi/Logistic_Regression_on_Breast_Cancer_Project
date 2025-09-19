@@ -5,6 +5,9 @@ This project uses the **Breast Cancer dataset** to build a predictive model that
 
 The primary goal of this project is to demonstrate how a simple predictive model can be integrated into real-world applications, such as a Flask-based web application, to assist medical professionals in making faster and more informed decisions.
 
+# Access to Full Project
+https://colab.research.google.com/drive/1QSg-6pUKk335mKjcoFDucYvDdLQKAeDR?authuser=1#scrollTo=cTdaWh3C32Gb
+
 ## Features
 - Predicts if a cell is malignant or benign.
 - Built with Python and scikit-learn.
