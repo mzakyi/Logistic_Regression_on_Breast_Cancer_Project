@@ -3,6 +3,9 @@
 This project demonstrates basic **data analysis and visualization** using Python libraries such as **Pandas, NumPy, Matplotlib, and Seaborn**.  
 It is implemented in a Jupyter Notebook (`.ipynb` file).
 
+# Access to Full Project
+https://colab.research.google.com/drive/1QSg-6pUKk335mKjcoFDucYvDdLQKAeDR?authuser=1#scrollTo=cTdaWh3C32Gb
+
 ---
 
 ## 📂 Project Structure
